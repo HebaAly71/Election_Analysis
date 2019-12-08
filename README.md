@@ -17,7 +17,7 @@ The analysis of the election show that:
   - Diane DeGette who received 73.8% of the vote and 272, 892 number of votes.
   - Raymon Anthony Doane who received 3.1% of the vote and 11,606 number of votes.
  
- # The winner of the election was Diane DeGette.
+ ### The winner of the election was Diane DeGette.
  
  ## Challenge Overview
  After sharing the election audit the election commission asked to confirm each county turnout.
@@ -40,5 +40,5 @@ The analysis of the election show that:
   2. Denver County that has 82.8% of the total votes and 306,055 number of votes.
   3. Arapahoe County that has 6.7% of the total votes and 24,801 number of votes.
  
-# The county with the largest turnout is Denver.
+### The county with the largest turnout is Denver.
   
